@@ -1,5 +1,8 @@
 # Lane Detection and Violation Detection Using OpenCV
 
+![Sample Output 1](./media/007aeb45-eef41701.jpg_output.jpg)
+![Sample Output 2](./media/007c01ea-ad9f940b.jpg_output.jpg)
+
 ## Overview
 
 This project implements a **lane detection and vehicle lane violation detection system** using Python and OpenCV. It processes images of roads, detects lane lines using **Canny edge detection** and **Hough Transform**, filters and merges detected lines, and determines whether a vehicle is violating lane boundaries based on tire line positions.
